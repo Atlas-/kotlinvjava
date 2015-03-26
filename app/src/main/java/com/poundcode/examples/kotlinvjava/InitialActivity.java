@@ -12,6 +12,5 @@ public class InitialActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //todo load kotlin or Android
     }
 }
